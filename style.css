@@ -1,5 +1,5 @@
 body{
-    animation: spin 0.1s infinite;
+    animation: spin 0.0000029s infinite;
 }
 @keyframes spin{
     0%{transform: rotate(360deg);}
