@@ -1,0 +1,6 @@
+body{
+    animation: spin 0.1s infinite;
+}
+@keyframes spin{
+    0%{transform: rotate(360deg);}
+}
